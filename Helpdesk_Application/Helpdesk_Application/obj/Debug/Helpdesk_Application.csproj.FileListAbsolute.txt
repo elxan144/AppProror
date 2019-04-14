@@ -1,0 +1,14 @@
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\bin\Debug\Helpdesk_Application.exe.config
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\bin\Debug\Helpdesk_Application.exe
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\bin\Debug\Helpdesk_Application.pdb
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.btn_registerCard.resources
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.Properties.Resources.resources
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.csproj.GenerateResource.Cache
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.csproj.CoreCompileInputs.cache
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.exe
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.pdb
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.AdminForm.resources
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.csprojResolveAssemblyReference.cache
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.CardGenerateForm.resources
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.AddProduct.resources
+c:\users\elkhanmo\source\repos\Helpdesk_Application\Helpdesk_Application\obj\Debug\Helpdesk_Application.UserProfile.resources
